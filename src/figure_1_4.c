@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../lib/apue.h"
 
 #define BUFFSIZE 4096
 

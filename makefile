@@ -1,0 +1,3 @@
+g:gcc
+I:-Iinclude
+

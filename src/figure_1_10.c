@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../lib/apue.h"
 #include <sys/wait.h>
 
 static void sig_int(int);

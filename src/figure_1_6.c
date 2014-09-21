@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../lib/apue.h"
 
 int main()
 {
